@@ -1,5 +1,5 @@
 @regression
-Feature: contact us
+Feature: contact us by Github test
 
   Background:
     When I click on Contact us button
