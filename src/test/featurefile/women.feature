@@ -1,7 +1,7 @@
 Feature: Women
 
   @women
-  Scenario Outline: positive
+  Scenario Outline: positive scenario
     Then I should see "Women" section on home page
     When I click on "<women>" button
     Then I should see title as "<Title>"
